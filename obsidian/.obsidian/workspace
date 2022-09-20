@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "2bb0a7bee56616f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1afd71e6b6c36557",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ano 2/AMBIII/Sucessões/Séries.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "20a46b3a077da09a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ano 2/AMBIII/Sucessões/Séries.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e2f2f12d9144934",
+    "type": "split",
+    "children": [
+      {
+        "id": "76888f47d034825d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc4263e7a2bc787",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "586d1b3e9031b562",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e009b48e245558ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "742e843abe47b57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c5bd223b19e7053",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ano 2/AMBIII/Sucessões/Séries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3be3143989c7e0f2",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1afd71e6b6c36557",
+  "lastOpenFiles": [
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
+    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "Ano 2/micros/Untitled.md",
+    "Ano 2/AMBIII/AMBIII.md",
+    "Ano 2/IT/Filtros.md",
+    "Ano 2/IT/Modulção por pulsos - Amostragem.md",
+    "Ano 2/IT/Modulacao ASK PSK.md",
+    "Ano 2/IT/Modulacao de fase.md",
+    "Principio da sobreposicao.md"
+  ]
+}
