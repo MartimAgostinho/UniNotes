@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1afd71e6b6c36557",
+        "id": "20a46b3a077da09a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,7 +16,7 @@
         }
       },
       {
-        "id": "20a46b3a077da09a",
+        "id": "cda4e7a6ac12055e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -87,7 +87,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -107,10 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1afd71e6b6c36557",
+  "active": "20a46b3a077da09a",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
     "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
     "Ano 2/AMBIII/Sucessões/Séries.md",
     "Ano 2/micros/Untitled.md",
     "Ano 2/AMBIII/AMBIII.md",

@@ -14,5 +14,5 @@ $A(n+1)+Bn = 1$
 $A = 1, B = -1$
 $$\displaystyle U_n= \frac{1}{n}+\frac{-1}{n+1}$$
 ### $lim$ de sucessoes telescopicas 
-
+$$\displaystyle \sum_{n\geq c}a_n-a_{n+1}=a_c-lim~a_n~~,c \in \mathbb N < n$$
 $$\displaystyle \sum_{n\geq1}a_n-a_{n+1}=a_1-lim~a_n$$
