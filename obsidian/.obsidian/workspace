@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "20a46b3a077da09a",
+        "id": "5c5ef7631c1adc23",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/AMBIII/Sucessões/Séries.md",
+            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
             "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "cda4e7a6ac12055e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ano 2/AMBIII/Sucessões/Séries.md",
-            "mode": "preview",
             "source": false
           }
         }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "limites notaveis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Séries.md",
+                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20a46b3a077da09a",
+  "active": "5c5ef7631c1adc23",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
-    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
     "Ano 2/AMBIII/Sucessões/Séries.md",
-    "Ano 2/micros/Untitled.md",
+    "Ano 2/AMBIII/Sucessões/Criterios.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
     "Ano 2/AMBIII/AMBIII.md",
+    "Global/Limites notaveis.md",
     "Ano 2/IT/Filtros.md",
-    "Ano 2/IT/Modulção por pulsos - Amostragem.md",
     "Ano 2/IT/Modulacao ASK PSK.md",
-    "Ano 2/IT/Modulacao de fase.md",
-    "Principio da sobreposicao.md"
+    "Ano 2/IT/Modulção por pulsos - Amostragem.md",
+    "Ano 2/IT/Modulacao de fase.md"
   ]
 }
