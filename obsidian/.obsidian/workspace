@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+            "file": "primitividade eletrica.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2b09ff27ce50d150",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ano 2/Fisica III/Fisica.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+                "file": "Ano 2/Fisica III/Fisica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5c5ef7631c1adc23",
+  "active": "2b09ff27ce50d150",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "primitividade eletrica.md",
+    "Ano 2/Fisica III/Fisica.md",
+    "Ano 2/Fisica III/Dipolo.md",
     "Ano 2/AMBIII/Sucessões/Criterios.md",
+    "Ano 2/AMBIII/Sucessões/Séries.md",
     "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
     "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
     "Ano 2/AMBIII/AMBIII.md",
     "Global/Limites notaveis.md",
-    "Ano 2/IT/Filtros.md",
-    "Ano 2/IT/Modulacao ASK PSK.md",
-    "Ano 2/IT/Modulção por pulsos - Amostragem.md",
-    "Ano 2/IT/Modulacao de fase.md"
+    "Ano 2/IT/Filtros.md"
   ]
 }
