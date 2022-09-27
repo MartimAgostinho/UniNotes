@@ -1,0 +1,1 @@
+$$sinc(\lambda) = \frac{\sin(\pi\lambda)}{\pi\lambda}$$  
