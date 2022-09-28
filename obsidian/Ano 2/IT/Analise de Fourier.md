@@ -4,8 +4,10 @@ as **[[Series de Fourier]]** $\to$ função periódica com o período $T_0$
 # Analise de Fourier
 
 $$g_p(t)=a_0+2\sum_{n=1}^{\infty}\left[ a_n \cos\left (\frac{2\pi nt}{T_0}\right)+b_n\sin\left (\frac{2\pi nt}{T_0}\right) \right] \Leftrightarrow$$
-$$\displaystyle \Leftrightarrow g_p(t)=\sum_{n=-\infty}^{\infty}c_n\times e^{\frac{j2\pi nt}{T_0}}$$
-em que $c_n$ é o **coeficiente complexo de Fourier** :$$c_n =\frac{1}{T}\int_{I_0}^{I_1} g_p(t)\exp\left(-\frac{j2\pi nt}{T}\right)dt \Longleftrightarrow$$ $$c_n =\Delta f\int_{I_0}^{I_1} g_p(t)\exp\left(-j 2\pi  f_n t\right)dt \Longleftrightarrow$$ $T_0 =$ tempo do impulso
+$$\displaystyle \Leftrightarrow g_p(t)=\sum_{n=-\infty}^{\infty}c_n\times \exp\left(\frac{j2\pi nt}{T_0}\right)$$
+em que $c_n$ é o **coeficiente complexo de Fourier** :
+### $C_n$
+$$c_n =\frac{1}{T}\int_{I_0}^{I_1} g_p(t)\exp\left(-\frac{j2\pi nt}{T}\right)dt \Longleftrightarrow$$ $$c_n =\Delta f\int_{I_0}^{I_1} g_p(t)\exp\left(-j 2\pi  f_n t\right)dt \Longleftrightarrow$$ $T_0 =$ tempo do impulso
 $T=$periodo
 $I_0$ inicio do impulso
 $I_1$ fim do impulso
