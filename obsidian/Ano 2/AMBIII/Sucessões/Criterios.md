@@ -31,3 +31,7 @@ Seja $∑ u_n$ uma serie alternada tal que
 - $\lim _{n→+∞ }u_n = 0$ ( que e equivalente a afirmar que  $\displaystyle \lim_{  n→+∞} |un| = 0$).  
 Nestas condicoes, $∑ u_n$  ́e convergente.
 
+## Criterio da razao
+
+$$\lim_{n\to +\infty}\left| \frac{u_{n+1}}{u_n} \right|<1$$
+se isto for verdade $\sum u_n$ converge (??)
