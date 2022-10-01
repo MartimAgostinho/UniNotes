@@ -6,3 +6,5 @@
 [[Joules]]
 [[Coulomb]]
 [[Watt]]
+[[Campo Eletrico]] 
+[[Newton]]

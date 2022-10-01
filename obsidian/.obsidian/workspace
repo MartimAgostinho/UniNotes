@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6c7dbf9d050cd6",
+        "id": "0e52db7898b6114f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Ano 2/Fisica III/Campo Eletrico.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vetore",
+                "query": "coulom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Ano 2/Fisica III/Campo Eletrico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b6c7dbf9d050cd6",
+  "active": "0e52db7898b6114f",
   "lastOpenFiles": [
-    "Ano 2/Fisica III/Fisica.md",
+    "Global/Coulomb.md",
+    "Ano 2/Fisica III/Campo Eletrico.md",
+    "Ano 2/Fisica III/FisicaII.md",
+    "Global/Newton.md",
+    "Global/Unidades SI.md",
+    "Global/primitividade eletrica.md",
+    "Ano 1/AMBII/Funcoes/Funções vetoriais de variável real.md",
+    "Ano 1/AMBII/Funcoes/Funções reais de n variáveis.md",
     "Ano 2/Fisica III/Dipolo.md",
-    "Global/Vetores.md",
-    "Ano 2/micros/Multipllicacao.md",
-    "Ano 2/IT/Ex analise de fourier.md",
-    "Ano 2/IT/Filtros.md",
-    "Ano 2/IT/Analise de Fourier.md",
-    "Global/Series de Fourier.md",
-    "Ano 2/IT/Sinc.md",
-    "Global/numeros complexo.md"
+    "Global/Vetores.md"
   ]
 }
