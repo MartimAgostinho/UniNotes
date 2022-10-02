@@ -1,6 +1,6 @@
 
 
-# algoritmo
+# Algoritmo
 $Ax \times Bx = Dx$
 
 ## Vars iniciais 

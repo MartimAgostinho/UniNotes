@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/Fisica III/Campo Eletrico.md",
+            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coulom",
+                "query": "absolutamente convergente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/Fisica III/Campo Eletrico.md",
+                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "0e52db7898b6114f",
   "lastOpenFiles": [
-    "Global/Coulomb.md",
+    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "Ano 2/AMBIII/Sucessões/Criterios.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
     "Ano 2/Fisica III/Campo Eletrico.md",
-    "Ano 2/Fisica III/FisicaII.md",
-    "Global/Newton.md",
-    "Global/Unidades SI.md",
-    "Global/primitividade eletrica.md",
-    "Ano 1/AMBII/Funcoes/Funções vetoriais de variável real.md",
-    "Ano 1/AMBII/Funcoes/Funções reais de n variáveis.md",
     "Ano 2/Fisica III/Dipolo.md",
-    "Global/Vetores.md"
+    "Ano 2/Fisica III/FisicaII.md",
+    "Ano 2/IT/Analise de Fourier.md",
+    "Ano 2/micros/Multipllicacao.md",
+    "Global/Coulomb.md"
   ]
 }

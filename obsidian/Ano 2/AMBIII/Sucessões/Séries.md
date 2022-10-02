@@ -23,15 +23,16 @@ Para uma sucessão $U_{(n)}$ dizemos que a serie $\displaystyle \sum U_n$  é de
 
 
 ## Series com termo geral de sinal variavel
-- Dada uma serie $\sum u_n$, se a serie dos modulos $\sum |u_n|$
-converge entao $\sum u_n$ converge.
-- Dada uma serie $\sum u_n$, se a serie dos modulos $\sum |u_n|$
-converge entao diz se que  $\sum u_n$ é ==**absolutamente convergente**== 
+
+- Dada uma serie $\sum u_n$, se a serie dos modulos $\sum |u_n|$ converge entao $\sum u_n$ converge.
+
+- Dada uma serie $\sum u_n$, se a serie dos modulos $\sum |u_n|$ converge entao diz se que  $\sum u_n$ é ==**absolutamente convergente**== 
 
 #### Exemplo
 $$\sum \frac{\sin n}{n^2+n}$$
 se esta é convergente entao:
 $\displaystyle \sum \left | \frac{\sin n}{n^2+n}\right |$ é convergente
+
 $\displaystyle \sum \left | \frac{\sin n}{n^2+n}\right | \leq \sum \left | \frac{1}{n^2+n}\right | \leq \sum \frac{1}{n^2}$, esta converge logo a primeira serie converge
 
 

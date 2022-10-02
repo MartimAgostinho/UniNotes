@@ -32,6 +32,9 @@ Seja $∑ u_n$ uma serie alternada tal que
 Nestas condicoes, $∑ u_n$  ́e convergente.
 
 ## Criterio da razao
+- Para uma [[Séries#Series de termos positivos| serie de termos positivos]] $u_n$ onde:
 
-$$\lim_{n\to +\infty}\left| \frac{u_{n+1}}{u_n} \right|<1$$
-se isto for verdade $\sum u_n$ converge (??)
+$$\lim_{n\to +\infty}\left| \frac{u_{n+1}}{u_n} \right|=l\in[0,+\infty]$$
+- Se $l < 1$ então $\sum u_n$ é [[Séries#Series com termo geral de sinal variavel|absolutamente convergente]] 
+- Se $l > 1$ então $\sum u_n$ é divergente 
+- Se $l = 1$ então nada se pode concluir quanto à natureza de $\sum u_n$ 
