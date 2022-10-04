@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0e52db7898b6114f",
+        "id": "de3d9e3704a1443c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+            "file": "Ano 2/IT/Ex analise de fourier.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+                "file": "Ano 2/IT/Ex analise de fourier.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e52db7898b6114f",
+  "active": "de3d9e3704a1443c",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Séries.md",
-    "Ano 2/AMBIII/Sucessões/Criterios.md",
-    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
-    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
-    "Ano 2/Fisica III/Campo Eletrico.md",
-    "Ano 2/Fisica III/Dipolo.md",
-    "Ano 2/Fisica III/FisicaII.md",
     "Ano 2/IT/Analise de Fourier.md",
+    "Ano 2/IT/Ex analise de fourier.md",
+    "Formulario IT.md",
+    "Ano 2/IT/Duty cycle.md",
+    "Ano 2/IT/Transformada de Fourier.md",
+    "Ano 2/micros/Divisao.md",
     "Ano 2/micros/Multipllicacao.md",
-    "Global/Coulomb.md"
+    "Ano 2/IT/Sinc.md",
+    "Ano 2/Fisica III/Lei de Gauss.md",
+    "Ano 1/AMBII/Desigualdades.md"
   ]
 }

@@ -1,7 +1,8 @@
+# [[Analise de Fourier]]
+
+
 ![[Pasted image 20220927134300.png]]
-
-[[Analise de Fourier]]
-
+''
 dados: $T_0 = 1$
 $\displaystyle  c_n =\frac{1}{T_0}\int_{-\frac{T_0}{2}}^{\frac{T_0}{2}} g_p(t)\exp\left(-\frac{j2\pi nt}{T_0}\right)dt \Leftrightarrow$
 
@@ -21,6 +22,9 @@ $\displaystyle \Leftrightarrow \frac{ \exp\left(- \frac{j\pi n}{2} \right) - \ex
 
 $\displaystyle \Leftrightarrow \frac{\sin\left( \frac{\pi n}{2} \right)}{\pi n\times\exp\left(\frac{j\pi n}{2}\right)}$
 
-$\displaystyle \Leftrightarrow \frac{sinc\left( \frac{\pi n}{2} \right)}{2\exp\left(\frac{j\pi n}{2}\right)}$ 
+$\displaystyle \Leftrightarrow \exp\left(\frac{-j\pi n}{2}\right)\frac{sinc\left( \frac{\pi n}{2} \right)}{2}$ 
 
+# Ex2 . :
+![[Pasted image 20221004224432.png]]
 
+O sinal ]e composto por $C_1$ e $C_2$ sinal $rect\left( \frac{6t}{T_0}  - \frac{T_0}{6}\right) - rect\left( \frac{6t}{T_0} + \frac{T_0}{6}\right)$
