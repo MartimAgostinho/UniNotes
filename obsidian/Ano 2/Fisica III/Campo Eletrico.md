@@ -56,3 +56,17 @@ $\displaystyle\Leftrightarrow \vec E=\int_0^R \frac{z\sigma\times2\cancel\pi r}{
 $\displaystyle \Leftrightarrow \vec E=\frac{z\sigma}{4\varepsilon_0}\left[ \frac{ 1 }{-\frac{1}{2} \sqrt{z^2+r^2} } \right]_0^R \Leftrightarrow \vec E= \frac{z\sigma}{4\varepsilon_0}\left( \frac{-2}{\sqrt{z^2+R^2}}-\frac{-2}{\sqrt{z^2}} \right)\Leftrightarrow$ $$\Leftrightarrow \vec E= \frac{\sigma}{4\varepsilon_0}\left( 1-\frac{z}{\sqrt{z^2+R^2}} \right)$$ 
 (m8 eu tenho a certeza q o 4 devia ser um 2 cmon)
 
+
+### Exercicio 18
+
+![[Pasted image 20221004232640.png]]
+
+- a) como é uma linha $\lambda=$ carga/unidade de medida $$\lambda = \frac{Q}{\pi r}$$
+
+- b) Como há simetria no eixo $x$ a força **não** tem componente no eixo $y$ 
+
+- c) Sendo $ds$ uma divisao infinitamente pequena da circunferencia  $$\vec E = \int k\frac{ds\lambda}{a^2}$$ mas como só queremos a componente no $x$ $$\vec E = \int k\frac{ds\lambda}{a^2}\cos \alpha$$
+- $ad\alpha = ds$ por definição de radianos (ver este ponto)
+- Os extremos são os valores de $\alpha$ $$\vec E = \int_{-\frac{\pi}{2}}^{\frac{\pi}{2}} k\frac{\cancel a\times\lambda}{a^{\cancel2}}\cos \alpha ~d\alpha\Leftrightarrow$$
+- $$\Leftrightarrow \vec E=\frac{k\lambda}{a}\left[ sin(\alpha) \right]_{-\frac{\pi}{2}}^{-\frac{\pi}{2}}\Leftrightarrow$$
+- $$\Leftrightarrow \vec E=\frac{2k\lambda}{a}$$
