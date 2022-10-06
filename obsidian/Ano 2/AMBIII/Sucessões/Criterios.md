@@ -5,6 +5,12 @@
 Seja $f : [1,+\infty]\to \mathbb R$ uma funcao ==continua e decrescente== tal que $f(x)\geq 0$ a sucessao de termo geral $U_n = f(n)$ a serie de termos positivos $\displaystyle \sum U_n$ e o integral improprio de 1ª especie
 $\displaystyle \int_1^{+\infty}f(x)dx$ tem a mesma natureza, ou seja, ou sao ambos  convergentes ou sao ambos divergentes.
 
+## 1º Critério geral de comparação
+
+Sejam $\sum u_n$ e $\sum v_n$ duas séries de termos positivos tais $\sum u_n ≤\sum v_n$ , para todo o $n ∈ \mathbb N$. Então:
+- $\sum v_n$ converge entao $\sum u_n$ converge
+- $\sum u_n$ diverge entao $\sum u_n$ diverge
+
 ## 2º Criterio geral de comparacao
 
 Sejam  $∑ u_n$ e $∑ v_n$ duas series de termos  

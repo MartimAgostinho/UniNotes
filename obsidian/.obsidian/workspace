@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/Fisica III/Campo Eletrico.md",
+            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/Fisica III/Campo Eletrico.md",
+                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "de3d9e3704a1443c",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Ano 2/AMBIII/AMBIII.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
+    "Ano 2/IT/Duty cycle.md",
     "Ano 2/IT/Ex analise de fourier.md",
     "Ano 2/IT/Analise de Fourier.md",
-    "Formulario IT.md",
-    "Ano 2/IT/Duty cycle.md",
+    "Ano 2/Fisica III/Campo Eletrico.md",
+    "Untitled.md",
+    "Ano 2/IT/Formulario IT.md",
     "Ano 2/IT/Transformada de Fourier.md",
-    "Ano 2/micros/Divisao.md",
-    "Ano 2/micros/Multipllicacao.md",
-    "Ano 2/IT/Sinc.md",
-    "Ano 2/Fisica III/Lei de Gauss.md"
+    "Ano 2/micros/Divisao.md"
   ]
 }
