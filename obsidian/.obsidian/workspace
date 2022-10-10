@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+            "file": "Ano 2/Fisica III/Campo eletrico de objetos.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+                "file": "Ano 2/Fisica III/Campo eletrico de objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "de3d9e3704a1443c",
+  "active": "4bc4263e7a2bc787",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/AMBIII.md",
-    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
+    "Ano 2/Fisica III/Lei de Gauss.md",
     "Ano 2/IT/Duty cycle.md",
     "Ano 2/IT/Ex analise de fourier.md",
     "Ano 2/IT/Analise de Fourier.md",
-    "Ano 2/Fisica III/Campo Eletrico.md",
-    "Untitled.md",
-    "Ano 2/IT/Formulario IT.md",
-    "Ano 2/IT/Transformada de Fourier.md",
-    "Ano 2/micros/Divisao.md"
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas (ou de Mencoli).md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "Ano 2/AMBIII/Sucessões/Sucessoes complexas.md",
+    "Ano 2/AMBIII/Sucessões/Criterios.md",
+    "Global/numeros complexo.md"
   ]
 }

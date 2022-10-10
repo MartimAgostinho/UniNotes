@@ -35,3 +35,12 @@ $$g(0)=\int_{-\infty}^{+\infty}G(f)df$$
 $$\frac{d^n}{dt^n}g(t)=(j2\pi f)^nG(f)$$
 ### Integracao no tempo
 $$\int_{-\infty}^tg(t)dt=\frac{1}{j2\pi f}G(f)+\frac{G(0)}{2}g(f)$$
+### Teorema da coorelação
+$g_1\to G_1(f)$     $g_2\to G_2(f)$ 
+$$\int_{-\infty}^\infty g_1(t)g_2^*(t-\tau)dt\to G_1(f)G_2^*(f)$$
+Em que $G_2^*(f)$ é o [[numeros complexo#Conjugado|complexo conjugado]] de $G_2(f)$ e $\tau$ é a variavel tempo envolvida na definição da TF inversa do produto 
+
+### Teorema da energia
+$g(t)\to G(f)$
+
+$$\int_{-\infty}^\infty|g(t)|^2dt=\int_{-\infty}^\infty|G(f)|^2df$$

@@ -3,6 +3,7 @@ $$i^2 =-1$$
 ## Conjugado
 
 Dado um complexo $z$, definimos o conjugado de $z$ como o complexo $z$ tal que $Re (z) = Re(z)$ e $Im(z) =−Im(z)$
+$\displaystyle z = ae^{i\theta}~~,~~\overline z=ae^{-i\theta}$ 
 
 
 ## Exponecial

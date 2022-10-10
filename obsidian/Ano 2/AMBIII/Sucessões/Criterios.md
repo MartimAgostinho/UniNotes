@@ -34,8 +34,8 @@ $$\lim_{n\to+\infty}\frac{u_n}{v_n}=l\in\{0,+\infty\}$$
 
 Seja $∑ u_n$ uma serie alternada tal que  
 - A sucessao dos modulos $(|u_n|),n∈\mathbb N$ e decrescente,  
-- $\lim _{n→+∞ }u_n = 0$ ( que e equivalente a afirmar que  $\displaystyle \lim_{  n→+∞} |un| = 0$).  
-Nestas condicoes, $∑ u_n$  ́e convergente.
+- $\displaystyle \lim _{n→+∞ }u_n = 0$ ( que e equivalente a afirmar que  $\displaystyle \lim_{  n→+∞} |un| = 0$).  
+Nestas condicoes, $∑ u_n$ é convergente.
 
 ## Criterio da razao
 - Para uma [[Séries#Series de termos positivos| serie de termos positivos]] $u_n$ onde:

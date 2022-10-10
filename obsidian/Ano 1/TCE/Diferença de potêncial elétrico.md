@@ -4,6 +4,8 @@
 ## Definição
 Por definição a **tensão** ou **diferença de potêncial**  é a quantidade de energia por unidade de carga elétrica.
 **Unidades** : [[Volt]] ou [[Joules]]/[[Coulomb]]
+É um escalar
+
 ## Equações
  $\textbf{\small pela definição}$$~~~~\displaystyle v=\frac{w}{q}$ 
 $~~~~\rightarrow$ $v$ = Tensão, Unidades [[Volt]] 

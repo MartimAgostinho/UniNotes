@@ -1,3 +1,4 @@
+
 # Duty cycle
 $$D = \frac{PW}{T}$$
 onde:
