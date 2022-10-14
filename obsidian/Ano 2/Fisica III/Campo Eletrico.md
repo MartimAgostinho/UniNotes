@@ -2,7 +2,7 @@
 
 ## Definição
 É um campo vétorial ([[AMBII]]), em que cada ponto ($P$) do espaço em torno de uma carga, ou de um conjunto de cargas, está associado a um vetor $\vec E$ definido por: $$\displaystyle \vec E = \frac{\vec F}{q_0}$$ onde $\vec F$ : $$|\vec F| = k\frac{q_0q_1}{d^2}$$
-logo: $$\vec E = \frac{ k\frac{q_1q_2}{d^2}}{q_0} \Leftrightarrow k\frac{q_1}{d^2}$$
+logo: $$\vec E = \frac{ k\frac{q_1q_0}{d^2}}{q_0} \Leftrightarrow k\frac{q_1}{d^2}$$
 - $k$ é constante de [[Coulomb]]
 - $q_0$ carga no ponto $P$  
 - $q_1$ Carga que cria o campo eletrica em questao

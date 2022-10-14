@@ -20,7 +20,7 @@ $$\Leftrightarrow dE=k\frac{z\sigma\times2\pi r}{ \left(z^2 + r^2\right)^{\frac{
 
 $\displaystyle\Leftrightarrow \vec E=\int_0^R \frac{z\sigma\times2\cancel\pi r}{ 4 \cancel \pi\varepsilon_0\left(z^2 + r^2\right)^{\frac{3}{2}}}dr \Leftrightarrow \vec E=\frac{z\sigma}{4\varepsilon_0}\int_0^R 2r\left( z^2+r^2 \right)^{-\frac{3}{2}}dr\Leftrightarrow$
 
-$\displaystyle \Leftrightarrow \vec E=\frac{z\sigma}{4\varepsilon_0}\left[ \frac{ 1 }{-\frac{1}{2} \sqrt{z^2+r^2} } \right]_0^R \Leftrightarrow \vec E= \frac{z\sigma}{4\varepsilon_0}\left( \frac{-2}{\sqrt{z^2+R^2}}-\frac{-2}{\sqrt{z^2}} \right)\Leftrightarrow$ $$\Leftrightarrow \vec E= \frac{\sigma}{4\varepsilon_0}\left( 1-\frac{z}{\sqrt{z^2+R^2}} \right)$$ 
+$\displaystyle \Leftrightarrow \vec E=\frac{z\sigma}{4\varepsilon_0}\left[ \frac{ 1 }{-\frac{1}{2} \sqrt{z^2+r^2} } \right]_0^R \Leftrightarrow \vec E= \frac{z\sigma}{4\varepsilon_0}\left( \frac{-2}{\sqrt{z^2+R^2}}-\frac{-2}{\sqrt{z^2}} \right)\Leftrightarrow$ $$\Leftrightarrow \vec E= \frac{\sigma}{2\varepsilon_0}\left( 1-\frac{z}{\sqrt{z^2+R^2}} \right)$$ 
 (m8 eu tenho a certeza q o 4 devia ser um 2 cmon)
 
 

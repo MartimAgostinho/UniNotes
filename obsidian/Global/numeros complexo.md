@@ -20,3 +20,5 @@ $\displaystyle Z^3=\sqrt 2 + i\sqrt 2\Leftrightarrow Z^3=2e^{i\frac{\pi}{4}}\Lef
 
 $\displaystyle \Leftrightarrow Z=\sqrt[3]{2}\exp\left(i\frac{\frac{\pi}{4}+2k\pi}{3}\right)$  
 Solucao: $$Z \in \left\{ \sqrt[3]{2}\exp\left(i\frac{\frac{\pi}{4}+2k\pi}{3}\right),k\in\{0,1,2\} \right\}$$ Existem 3 soluções para a equação
+
+## $Arg$ e $arg$ 

@@ -31,3 +31,9 @@ $$\cos(a)=\frac{1}{2}\left[ \exp(ja) + \exp(-ja) \right]$$
 $$\sin(a)=\frac{1}{2j}\left[ \exp(ja) - \exp(-ja) \right]$$
 
 
+
+# Funcao sinusoidal
+$$\cos(2\pi f_ct)\to\frac{1}{2}\left[ \delta(f-f_c)+\delta(f+f_c) \right]$$
+Isto é o espetro de uma funcao coseno consiste num par de funcoes delta centradas em $f=\pm f_{c}$ cada uma pesada por um fator de $\frac{1}{2}$ 
+
+$$\sin(2\pi f_ct)\to\frac{1}{2}\left[ \delta(f-f_c)-\delta(f+f_c) \right]$$
