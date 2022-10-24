@@ -1,4 +1,4 @@
-# Campo Eletrico
+W# Campo Eletrico
 
 ## Definição
 É um campo vétorial ([[AMBII]]), em que cada ponto ($P$) do espaço em torno de uma carga, ou de um conjunto de cargas, está associado a um vetor $\vec E$ definido por: $$\displaystyle \vec E = \frac{\vec F}{q_0}$$ onde $\vec F$ : $$|\vec F| = k\frac{q_0q_1}{d^2}$$

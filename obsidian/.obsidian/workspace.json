@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e47ca6637cfc173a",
+        "id": "f276e40a7266b190",
         "type": "tabs",
         "children": [
           {
-            "id": "de3d9e3704a1443c",
+            "id": "e0ea3abc40b0dab6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/IT/Modulacao de ondas/Modulacao de fase.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1f4db0fb1fd845d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/IT/Modulacao de ondas/Modulação de amplitude e frequencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6495f1d6c31c0d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/IT/Transformada de Fourier.md",
+                "file": "Ano 2/IT/Sinais de potencia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/IT/Transformada de Fourier.md",
+                "file": "Ano 2/IT/Sinais de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,17 +106,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6495f1d6c31c0d85",
+  "active": "4bc4263e7a2bc787",
   "lastOpenFiles": [
-    "Ano 2/IT/Largura de banda.md",
-    "Ano 2/IT/Formulario IT.md",
-    "Ano 2/IT/Filtros.md",
-    "Ano 2/IT/Ex analise de fourier.md",
-    "Ano 2/IT/Duty cycle.md",
-    "Ano 2/IT/Dirac Delta.md",
+    "Ano 2/IT/Sinais de potencia.md",
+    "Ano 2/IT/Correlacao cruzada.md",
+    "Ano 1/AMBII/Funcoes/Derivada de duas variaveis.md",
+    "Ano 2/AMBIII/Derivadas Complexas.md",
     "Ano 2/IT/Potencia onda.md",
-    "Ano 2/IT/Multiplexing.md",
-    "Ano 2/IT/Quantizacao.md",
-    "Ano 2/IT/rect.md"
+    "Ano 2/Fisica III/Lei de Gauss.md",
+    "Ano 2/Fisica III/FisicaIII.md",
+    "Ano 1/TCE/Diferença de potêncial elétrico.md",
+    "Ano 1/TCE/Corrente elétrica.md",
+    "Ano 1/TCE/TCE.md"
   ]
 }

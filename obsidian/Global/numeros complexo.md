@@ -22,3 +22,6 @@ $\displaystyle \Leftrightarrow Z=\sqrt[3]{2}\exp\left(i\frac{\frac{\pi}{4}+2k\pi
 Solucao: $$Z \in \left\{ \sqrt[3]{2}\exp\left(i\frac{\frac{\pi}{4}+2k\pi}{3}\right),k\in\{0,1,2\} \right\}$$ Existem 3 soluções para a equação
 
 ## $Arg$ e $arg$ 
+
+$Arg(z)\in [-\pi,\pi]$ 
+
