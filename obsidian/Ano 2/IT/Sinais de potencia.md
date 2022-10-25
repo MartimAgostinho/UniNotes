@@ -35,6 +35,7 @@ $$S_x = \lim_{T_0\to\infty}\left[ \frac{1}{2{T_0}}|X_{T_0}(f)|^2 \right]$$
 
 ### Potencia media
 $$P_x=\int_{-\infty}^{\infty}S_x(f)df$$
+É a autocorrelação
 $$P_x=R_x(0)$$
 
 (CORRELACAO ?!! VER ESTUDAR E CRIAR APONTAMENTO)
@@ -47,4 +48,5 @@ $x(t)=A\cos(2\pi f_ct+\theta)$
 $\displaystyle R_X=\frac{A^2}{T_0}\int_0^t\cos(2\pi f_c\tau+\theta)\cos(2\pi f_c(t-\tau)+\theta)dt=$
 
 $\displaystyle = \frac{A^2}{T_0}\int_0^t\cos(2\pi f_c\tau) + \cos(2\pi f_c(2t-\tau)+2\theta)=$
+
 $\displaystyle = R_x=\frac{A^2}{T_0}\cos(2\pi f_c\tau)$
