@@ -1,4 +1,4 @@
-# Sucessões telescópicas
+
 
 ## Definição
 

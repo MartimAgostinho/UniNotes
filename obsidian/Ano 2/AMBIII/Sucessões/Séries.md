@@ -14,7 +14,7 @@ $\to$ $\lim u_n \neq 0$ **==não==** significa que $\sum U_n$ diverge, a sucessa
 
 ## Series de Dirichlet
 
-A série de termos positivos: $$\displaystyle \sum \frac{1} {n^\alpha}$$ é convergente quando $\alpha < 1$ e diverge para $\alpha \leq 1$ 
+A série de termos positivos: $$\displaystyle \sum \frac{1} {n^\alpha}$$ é convergente quando $\alpha > 1$ e diverge para $\alpha \leq 1$ 
 
 ## Series de termos positivos
 

@@ -4,71 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f276e40a7266b190",
+        "id": "7d014dfcb7cbe8ed",
         "type": "tabs",
         "children": [
           {
-            "id": "e0ea3abc40b0dab6",
+            "id": "460d0cbfe45bbcb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/Fisica III/Condensadores.md",
+                "file": "Global/Sinc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "04c5e37343dbf482",
+            "id": "9120f721b01fb34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/AMBIII/Funcoes harmonicas.md",
+                "file": "Ano 1/AMBII/Funcoes/Parametrização.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec0a72768fe4ee88",
+            "id": "018c0aae64f5ae9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/AMBIII/Complexos/Holomorfismo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f5daab6e7b281549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/AMBIII/Complexos/Condições de Cauchy-Riemann.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9adea972a44788fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/AMBIII/Complexos/Condições de Cauchy-Riemann.md",
+                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Complexos/Condições de Cauchy-Riemann.md",
+                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,20 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4bc4263e7a2bc787",
+  "active": "018c0aae64f5ae9e",
   "lastOpenFiles": [
+    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "Ano 2/AMBIII/Sucessões/Criterios.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas.md",
+    "Ano 2/AMBIII/Sucessões/Sucessoes complexas.md",
     "Ano 2/AMBIII/AMBIII.md",
     "Ano 2/AMBIII/Diferenciabilidade.md",
     "Ano 2/AMBIII/Funcao sob um dominio.md",
     "Ano 2/AMBIII/Funcoes harmonicas.md",
-    "Ano 2/AMBIII/Primitiva sin.md",
-    "Ano 2/AMBIII/Complexos/Condições de Cauchy-Riemann.md",
-    "Ano 2/AMBIII/Complexos/Holomorfismo.md",
-    "Ano 2/AMBIII/Complexos/Derivadas Complexas.md",
-    "Ano 2/IT/Sinais de potencia.md",
-    "Ano 2/IT/Sistemas lineares.md"
+    "Ano 2/AMBIII/Primitiva sin.md"
   ]
 }

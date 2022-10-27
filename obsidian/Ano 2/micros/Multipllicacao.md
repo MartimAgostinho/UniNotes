@@ -57,7 +57,7 @@ d--Verdadeiro-->e[sair]
             inc cl
             shr bx,1
         
-        add bx,0;ativa as flags para o numero em bx
+        or bx,bx     ;ativa as flags para o numero em bx
         jnz mlt_BgLp1          
             
         ret

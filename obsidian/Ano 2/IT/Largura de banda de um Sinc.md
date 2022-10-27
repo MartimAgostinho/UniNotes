@@ -1,0 +1,1 @@
+Quando a [[Transformada de Fourier]] de uma onda é um [[Sinc]] a sua largura de banda é o primeiro 0. 
