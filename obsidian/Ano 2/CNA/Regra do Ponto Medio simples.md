@@ -1,5 +1,6 @@
 $\displaystyle I(g)=\int_a^bg(x)dx$
-$\displaystyle \hat I(g)=hg(\frac{a+b}{2})$
+
+$\displaystyle \hat I(g)=hg\left(\frac{a+b}{2}\right)$
 
 ## Erro de quadratura
 

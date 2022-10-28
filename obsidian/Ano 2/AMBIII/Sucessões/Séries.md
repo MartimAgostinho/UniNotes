@@ -39,3 +39,7 @@ $\displaystyle \sum \left | \frac{\sin n}{n^2+n}\right | \leq \sum \left | \frac
 ## Series alternadas
 Dada uma serie $∑ u_n$, dizemos que esta  ́e uma  
 **serie alternada** se, $$ u_nu_{n+1} ≤ 0,n\in \mathbb N$$ ou seja, se dois termos consecutivos tˆem sinais distintos.
+
+
+# Series Absolutamente e simplesmente convergentes
+

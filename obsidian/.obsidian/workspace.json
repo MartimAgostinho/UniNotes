@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "460d0cbfe45bbcb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Global/Sinc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9120f721b01fb34d",
             "type": "leaf",
             "state": {
@@ -37,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+                "file": "Ano 2/AMBIII/AMBIII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0dea2369440ae0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Criterios.md",
+                "file": "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "018c0aae64f5ae9e",
+  "active": "d0dea2369440ae0c",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Séries.md",
-    "Ano 2/AMBIII/Sucessões/Criterios.md",
-    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
-    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas.md",
-    "Ano 2/AMBIII/Sucessões/Sucessoes complexas.md",
+    "Ano 2/AMBIII/Complexos/Derivadas Complexas.md",
+    "Ano 1/AMBII/Funcoes/Parametrização.md",
+    "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
     "Ano 2/AMBIII/AMBIII.md",
-    "Ano 2/AMBIII/Diferenciabilidade.md",
-    "Ano 2/AMBIII/Funcao sob um dominio.md",
-    "Ano 2/AMBIII/Funcoes harmonicas.md",
-    "Ano 2/AMBIII/Primitiva sin.md"
+    "Ano 1/AMBII/Curvas/Curvas paramétricas de classe C1.md",
+    "Ano 1/AMBII/Funcoes/Teorema de Weierstrass.md",
+    "Ano 1/AMBII/Funcoes/Prolongamento por continuidade.md",
+    "Ano 1/AMBII/Funcoes/Gradiente.md",
+    "Ano 1/AMBII/Funcoes/Funções vetoriais de variável real.md",
+    "Ano 1/AMBII/Funcoes/Funções reais de n variáveis.md"
   ]
 }

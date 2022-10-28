@@ -1,4 +1,4 @@
-# Logaritmo Complexo
+
 
 Dizemos que o complexo $w$ é um logaritmo de $z$ se 
 $$e^w=z$$
@@ -37,3 +37,17 @@ Seja $f(z)~~,~~z\in \mathbb C$ tal que :
 $$f(z)=Log(z)$$ $f(z)$ tem continuidade em $\mathbb C\setminus \{Re(z)\leq 0 \land Im(z)=0\}$   
 
 - isto garante que se o numero for real, nao imaginario nao podemos fazer o logaritmo de um numero negativo
+
+#### Exemplo
+
+[[Holomorfismo|Holomorfia]] da funcao $Log(e^z+2)$ 
+
+Esta funcao é holommorfa quando $\mathbb C\setminus \{Re(e^z+2)\leq 0 \land Im(e^z+2)=0\} = \mathbb C \setminus \{ \mathbb R_0^- \}$  
+
+$z=x+yi$
+$e^z+2 \leq 0$ - conjunto de numeros onde a funcao nao ]e holommorfa
+$e^{x+yi} \leq -2$
+$e^xe^{yi}\leq-2 \Leftrightarrow e^x(\cos(y)+i\sin y)\leq-2\Leftrightarrow \sin(y)=0~,~y=k\pi$
+$\Leftrightarrow \cos(y)<0~,~y=\pi+2k\pi$
+$\Leftrightarrow x\geq \ln(2)$
+
