@@ -1,0 +1,1 @@
+Seja $Ω ⊆ \mathbb C$ um aberto simplesmente conexo que contém o ponto $z_0$ e $f$ uma função [[Holomorfismo|holomorfa]] em $Ω$. Seja $C ⊆ Ω$ uma curva seccionalmente regular fechada simples orientada no sentido positivo tal que o ponto $z_0$ pertence à região delimitada por $C$ mas não pertence a $C$. Então $$f(z_0)=\frac{1}{2\pi i}\int_C\frac{f(z_0)}{z-z_0}dz$$

@@ -1,0 +1,4 @@
+
+# ISI 
+
+Interferencia inter-simbolica

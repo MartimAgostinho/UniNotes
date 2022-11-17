@@ -15,3 +15,4 @@ se $r = 1, S_N=U_1N$
 $\displaystyle =\left\{\begin{array}{ll}  divergente~~, se~~ r = 1 \\ divergente~~, se |r| > 1 \\ \frac{u_1}{1-r}~~, se |r| < 1 \\ divergente ~~,se~~ r = -1\end{array} \right.$
 
 
+

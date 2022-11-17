@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9120f721b01fb34d",
+            "id": "14c97e4214fd0b15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 1/AMBII/Funcoes/Parametrização.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "018c0aae64f5ae9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/AMBIII/AMBIII.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0dea2369440ae0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
+                "file": "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dir",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
+                "file": "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +103,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0dea2369440ae0c",
+  "active": "4bc4263e7a2bc787",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Complexos/Derivadas Complexas.md",
-    "Ano 1/AMBII/Funcoes/Parametrização.md",
-    "Ano 2/AMBIII/Complexos/Integral de linha(Complexos).md",
-    "Ano 2/AMBIII/AMBIII.md",
-    "Ano 1/AMBII/Curvas/Curvas paramétricas de classe C1.md",
-    "Ano 1/AMBII/Funcoes/Teorema de Weierstrass.md",
-    "Ano 1/AMBII/Funcoes/Prolongamento por continuidade.md",
-    "Ano 1/AMBII/Funcoes/Gradiente.md",
-    "Ano 1/AMBII/Funcoes/Funções vetoriais de variável real.md",
-    "Ano 1/AMBII/Funcoes/Funções reais de n variáveis.md"
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+    "Ano 2/AMBIII/Sucessões/Criterios (Series).md",
+    "Ano 2/AMBIII/Sucessões/Séries.md",
+    "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
+    "Ano 2/AMBIII/Sucessões/Sucessões telescópicas.md",
+    "Ano 2/IT/Fourier/Dirac Delta.md",
+    "Ano 2/AMBIII/Diferenciabilidade.md",
+    "Ano 2/AMBIII/Fórmula integral de Cauchy.md",
+    "Ano 2/AMBIII/Funcao sob um dominio.md",
+    "Ano 2/AMBIII/Funcoes harmonicas.md"
   ]
 }

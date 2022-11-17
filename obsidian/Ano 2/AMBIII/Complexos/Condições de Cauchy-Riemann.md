@@ -50,3 +50,4 @@ $$\left\{ \begin{array}{cc}
 \frac{\partial u}{\partial x}(x_0~,~ y_0)=\frac{\partial v}{\partial y}(x_0~,~ y_0)\\
 \frac{\partial u}{\partial y}(x_0~,~ y_0)=-\frac{\partial v}{\partial x}(x_0~,~ y_0)
 \end{array}\right.$$
+Verifica 
