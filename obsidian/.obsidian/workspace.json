@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
+                "file": "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9248c335d7e9ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ano 2/micros/Divisao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e621501b3a031b94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ano 2/micros/Lógica para a função dos ficheiros.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
+                "file": "Ano 2/micros/Lógica para a função dos ficheiros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +128,54 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4bc4263e7a2bc787",
+  "floating": {
+    "id": "ffe308330b2dba40",
+    "type": "floating",
+    "children": [
+      {
+        "id": "cfdc5ddff086c6bc",
+        "type": "window",
+        "children": [
+          {
+            "id": "42c6f44c775ed084",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9b61b2500239baa6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ano 2/micros/Lógica para a função dos ficheiros.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1830,
+        "y": 162,
+        "width": 788,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9b61b2500239baa6",
   "lastOpenFiles": [
-    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
-    "Ano 2/AMBIII/Sucessões/Criterios (Series).md",
+    "Ano 2/micros/Divisao.md",
+    "Ano 2/micros/Lógica para a função dos ficheiros.md",
+    "Ano 2/micros/Multipllicacao.md",
+    "Ano 2/AMBIII/Sucessões/Series de potencias.md",
+    "Untitled 1.md",
     "Ano 2/AMBIII/Sucessões/Séries.md",
-    "Ano 2/AMBIII/Sucessões/Suceções de funções.md",
+    "Ano 2/AMBIII/Sucessões/Criterios (Series).md",
+    "Ano 2/AMBIII/Sucessões/Sucessões geometricas.md",
     "Ano 2/AMBIII/Sucessões/Sucessões telescópicas.md",
-    "Ano 2/IT/Fourier/Dirac Delta.md",
-    "Ano 2/AMBIII/Diferenciabilidade.md",
-    "Ano 2/AMBIII/Fórmula integral de Cauchy.md",
-    "Ano 2/AMBIII/Funcao sob um dominio.md",
-    "Ano 2/AMBIII/Funcoes harmonicas.md"
+    "Ano 2/AMBIII/Sucessões/Sucessoes complexas.md"
   ]
 }
